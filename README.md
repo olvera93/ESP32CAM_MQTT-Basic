@@ -1,3 +1,8 @@
+
+# Este repositorio ha sido modificado por Gonzalo Olvera
+
+En este video ha realizado los cambios 
+
 # ESP32CAM_MQTT-Basic
 Este repositorio contiene el programa básico para conectar el ESP32CAM a MQTT, enviar y recibir mensajes.
 
